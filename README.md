@@ -39,7 +39,7 @@ Ja
 
 ## Aantal schermen
 
-Het aantal schermen in onze app bedraagt **AANTAL**
+Het aantal schermen in onze app bedraagt **5**
 
 ### Lijst van schermen
 
@@ -58,7 +58,6 @@ Shared Preferences voor het opslaan hoelang de timer moet ingesteld worden
 
 ## 
 
-**
 
 ## Extra's
 
