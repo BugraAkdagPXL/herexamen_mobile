@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">herexamenGarage</string>
+    <string name="name_of_garage">Name of garage</string>
+    <string name="address_hint">Address</string>
+    <string name="Capacity_hint">Capacity</string>
+    <string name="save_title">Save</string>
+    <string name="delete_title">delete</string>
+    <string name="new_garage_title">New Garage</string>
+    <string name="textview_default_text">TextView</string>
+    <string name="generate_random_capacity_btn">Generate random capacity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stop_description_timer">Stop</string>
+    <string name="default_text">Hello world</string>
+    <string name="default_time">10:00</string>
+    <string name="home_title">Home</string>
+    <string name="settings_title">Settings</string>
+    <string name="timer_menu">Timer</string>
+    <string name="settings_back_to_timer">Back to timer</string>
+    <string name="capacity_text">Capacity</string>
+    <string name="current_count_text">Current count</string>
+    <string name="picture_of_garage_description">Picture of garage</string>
+    <string name="full_message">FULL</string>
+    <string name="logout_menu">Logout</string>
+    <string name="upload_image_text">Upload image</string>
+</resources>

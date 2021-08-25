@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "569708517464",
+    "firebase_url": "https://herexamengarages-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "herexamengarages",
+    "storage_bucket": "herexamengarages.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569708517464:android:fc5c6e6d61c2c65489522d",
+        "android_client_info": {
+          "package_name": "com.example.herexamengarage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569708517464-adgcflmuvr16phdktc6lv6en7mtp8mfp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.herexamengarage",
+            "certificate_hash": "58e4ef44aae8fa74be012e9c1121755868f1092e"
+          }
+        },
+        {
+          "client_id": "569708517464-c5ojeitb69e66pfificl13jns31bo2n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAtPR8UU8-bK5XGh8t43gGaHOAJ3j0R-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569708517464-c5ojeitb69e66pfificl13jns31bo2n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
